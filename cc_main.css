@@ -1,0 +1,28 @@
+/* cc_main.css  CSS page for the coding challenge */
+
+a  { color:#BA4A00; }
+a:visited { color:#D35400; }
+a:hover { color:#EB984E; font-weight:600; }
+a:active { color:#BDC3C7; }
+
+body {margin:0; padding: 0; 
+      width: 964;
+      margin: 15px auto;
+      color: #372F26;
+      background-color:#717D7E;
+      background-repeat:no-repeat;  }
+
+nav {clear:both;  width: 175px; height: 450px; float:left;
+     margin-left: 25px; border-right: 2px solid black;
+     }
+
+article {width:650px; float:left; padding-left: 25px;
+         /*border-left: 2px solid black;*/
+         }
+figcaption {text-align:left; }
+header { font-family: "Courier New", Courier, monospace;}
+header img {float:left; }
+footer {clear:left; border-top: 2px solid black;margin: 15px 25px;}
+
+h1 {margin-left: 325px; padding-top: 75px;}
+h5{float:right;padding-top:0px;}
